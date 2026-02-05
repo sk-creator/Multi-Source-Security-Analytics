@@ -5,9 +5,9 @@ Hands-on SOC project simulating multi-source log ingestion, parsing, alerting, a
 Project Overview
 
 This project simulates a Level 2 SOC environment for learning and demonstrating real-world cybersecurity monitoring workflows.
-It ingests and correlates logs from multiple sources — authentication, firewall, network, and database activity monitoring (DAM) — to detect suspicious activity, generate alerts, and simulate incident management.
+It ingests and correlates logs from multiple sources authentication, firewall, network, and database activity monitoring (DAM) to detect suspicious activity, generate alerts, and simulate incident management.
 
-The project includes hands-on experience with:
+The project includes hands on experience with:
 
 ELK Stack (Elasticsearch, Kibana, Filebeat)
 
